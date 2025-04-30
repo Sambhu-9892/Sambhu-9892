@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sambhu-9892
+# 👋 Hi there, I'm Samyam Bista
 
 - 🚀 I’m interested in **CyberSecurity**
 - 🌱 I’m currently learning **Web Security**
