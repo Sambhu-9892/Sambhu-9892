@@ -16,12 +16,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Sambhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhu-9892&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 - 📧 [Email](mailto:ssmyam88@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/samyam-bista-9720012a8) 
-
